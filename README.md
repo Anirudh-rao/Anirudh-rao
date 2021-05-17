@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anirudh-rao
-- 👀 I’m interested in Artificial Inteligence and Flutetr
-- 🌱 I’m currently learning Tensorflow, Pytorch and flutter
-- 💞️ I’m looking to collaborate on Projects
+- 👀 I’m interested in stuff
+- 🌱 Jamming in Tensorflow , Go and Flutter
+- 💞️ Hello there , looking for me
 - 📫 How to reach me https://www.linkedin.com/in/anirudh-rao-494a82168/
 
 <!---
