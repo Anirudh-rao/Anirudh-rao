@@ -5,7 +5,7 @@ what you Looking at? 🤨🤨🤨🤨🤨🤨
 
 - 👋 Hi, I’m @Anirudh-rao
 - 👀 I’m interested in stuff
-- 🌱Learning Tensorflow,Flutter,Python and JavaScript
+- 🌱Learning Tensorflow,Flutter,Python and C#
 - 💞️ Hello there , looking for me
 - 📫 How to reach me https://www.linkedin.com/in/anirudh-rao-494a82168/
 
