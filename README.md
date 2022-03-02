@@ -1,4 +1,5 @@
-## Fancy seeing you here! ✌️✌️
+## こんにちは
+### Kon'nichiwa ✌️✌️
 
 I am Anirudh Rao, people call me Ani, currently working at Ernst and Young as a Assosicate Analyst in the Data and Analytics Department. I am a tech enthusiast and Like to tinker with tech.  Find out more about me & feel free to connect with me here:
 
