@@ -16,6 +16,6 @@ I am Anirudh Rao, people call me Ani, currently working at Ernst and Young as a 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao)
