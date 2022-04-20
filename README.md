@@ -5,6 +5,8 @@ I am Anirudh Rao, people call me Ani, currently working at Ernst and Young as a 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnirudhRao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudh-rao-494a82168/)
 [![Instagram Badge](https://img.shields.io/badge/-AnirudhRao-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/anirudh__rao/)
+[![Twitter Badge](https://img.shields.io/badge/-@Rookr1312-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Rookr1312/)](https://twitter.com/Rookr1312)
+
 
 ## ⚡ Technologies:😎
 
