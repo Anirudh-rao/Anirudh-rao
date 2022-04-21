@@ -16,7 +16,7 @@ I am Anirudh Rao, people call me Ani, currently working at Ernst and Young as a 
 
 <h2>General Stats<h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anirudh-rao&show_icons=true&theme=dark&locale=en&layout=compact" alt="Anirudh-rao" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-rao&theme=white" alt="Anirudh-Rao" /></p>
+  
+![Anirudhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao&theme=aura&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh-rao&show_icons=true&theme=white&locale=en" alt="Anirudh-rao" /></p>
 
