@@ -17,12 +17,9 @@ I am Anirudh Rao, people call me Ani, currently working at Ernst and Young as a 
 
 
 <h2>General Stats<h2>
-  
-![Anirudhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-rao&theme=tokyonight&show_icons=true&layout=compact)
-![](https://raw.githubusercontent.com/Anirudh-rao/github-stats/master/generated/languages.svg#gh-dark-mode-only&theme=tokyonight&show_icons=true)
-
-
+ 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Anirudh-rao&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-rao&langs_count=5&theme=tokyonight)]()
 
 
 
