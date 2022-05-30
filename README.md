@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anirudh @rookr1312" target="blank"><img src="https://img.shields.io/twitter/follow/anirudh @rookr1312?logo=twitter&style=for-the-badge" alt="anirudh @rookr1312" /></a> </p>
 
-- 🌱 I’m currently learning **Go , React ,rust ,Flutter and Tensorflow**
+- 🌱 I’m currently learning **Go , React ,rust ,Flutter, Tensorflow and Web 3.0**
 
 - 📫 How to reach me **anirudh131299@gmail.com**
 
