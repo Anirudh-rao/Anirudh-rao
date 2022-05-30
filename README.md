@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-rao&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-rao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anirudh @rookr1312" target="blank"><img src="https://img.shields.io/twitter/follow/anirudh @rookr1312?logo=twitter&style=for-the-badge" alt="anirudh @rookr1312" /></a> </p>
+
 
 - 🌱 I’m currently learning **Go , React ,rust ,Flutter, Tensorflow and Web 3.0**
 
