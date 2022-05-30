@@ -1,4 +1,6 @@
-<h1 align="center">こんにちは Kon'nichiwa Anirudh-rao</h1>
+<h1 align="left">こんにちは </h1>
+<h1 align="left">Kon'nichiwa</h1>
+<h1 align='left'> Anirudh-rao</h1>
 <h3 align="center">I am Anirudh Rao, people call me Ani, currently working at Ernst and Young as a Assosicate Analyst in the Data and Analytics Department. I am a tech enthusiast and Like to tinker with tech. Find out more about me & feel free to connect with me here:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-rao&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-rao" /> </p>
