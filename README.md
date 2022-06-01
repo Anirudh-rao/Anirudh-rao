@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Go , React ,rust ,Flutter, Tensorflow and Web 3.0**
+- 🌱 I’m currently learning **Go , React ,Rust ,Flutter,Tailwind and Web 3.0**
 
 - 📫 How to reach me **anirudh131299@gmail.com**
 
