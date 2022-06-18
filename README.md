@@ -7,7 +7,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Anirudh-rao.Anirudh-rao)
 
-<h2 size=20%> About Me </h2> <img src = "https://github.com/Anirudh-rao/Anirudh-rao/blob/main/screen%20open.gif" width = 30%  align=right" />
+<h2 size=20%> About Me </h2> 
  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -37,17 +37,10 @@
  </p>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=30% height=20% align="right"> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anirudh-rao&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<h2> My GitHub Stats </h2>
 
  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirudh-rao/langs?time_range=three_months&use_percent=True&compact=True&theme=dark)](https://githubtrends.io)
 </a>
 
-<h2> Some Programming Humor for you </h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
