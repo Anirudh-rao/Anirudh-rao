@@ -2,16 +2,11 @@
 <img width=100%  src="https://github.com/Anirudh-rao/Anirudh-rao/blob/main/header.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px height=40px> </h1>
-<p align='center'>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Anirudh-rao.Anirudh-rao)
 
-<h2 size=20%> About Me </h2> 
- 
+<h2 size=20%> About Me </h2>  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 -  I am Anirudh Rao, people call me ```Ani```, currently working at Ernst and Young as a Associate Analyst.I am Specialized in Big Data Engineering and Trained in Technologies like  Python, Power Bi, Snowflake, Databricks, 
  Altryx and MS Sql Server. 
