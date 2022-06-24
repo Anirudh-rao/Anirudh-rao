@@ -8,8 +8,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--  I am Anirudh Rao, people call me ```Ani```, currently working at Ernst and Young as a Associate Analyst.I am Specialized in Big Data Engineering and Trained in Technologies like  Python, Power Bi, Snowflake, Databricks, 
- Altryx and MS Sql Server. 
+-  I am Anirudh Rao, people call me ```Ani```, currently working at Ernst and Young as a Associate Analyst. 
  I am a tech enthusiast and Like to tinker with tech.
 
 - 🌱 I’m currently learning Go , Rust , React, Flutter and Web 3.0 
