@@ -12,6 +12,7 @@
  I am a tech enthusiast and Like to tinker with tech.
 
 - 🌱 I’m currently learning Go , Rust , Next, Flutter and Web 3.0 
+- 🎇 Love To Draw and Sketch
 
  
 
