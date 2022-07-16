@@ -14,7 +14,7 @@
 
 <h2>Some Stats</h2>
 
-<a>[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirudh-rao/langs)](https://githubtrends.io)
+<a>[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirudh-rao/langs?time_range=one_month&use_percent=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 ![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao&show_icons=true&theme=radical)</a>
 
 
