@@ -2,6 +2,11 @@
 <img width=100%  src="https://github.com/Anirudh-rao/Anirudh-rao/blob/main/header.png" alt="cover" />
 </div>
 
+<h4>
+  <li> Learning and Creating , on a path to learn Web 3 and AI </li>
+  <li> Pytorch , Rust and Golang is my focus </li>
+</h4>
+
 
 <h2>Some Stats</h2>
 
