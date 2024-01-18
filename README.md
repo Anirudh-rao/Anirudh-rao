@@ -10,8 +10,8 @@
 
 <h2>Some Stats</h2>
 
-<a>https://api.githubtrends.io/user/svg/Anirudh-rao/langs?time_range=one_month&include_private=True&compact=True&theme=synthwaves </a>
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao&show_icons=true&theme=radical)</a>
+![Langugaes](https://api.githubtrends.io/user/svg/Anirudh-rao/langs?time_range=one_month&include_private=True&compact=True&theme=synthwaves)</a> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao&show_icons=true&theme=radical)</a>
 
 
 
