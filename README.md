@@ -3,7 +3,7 @@
 </div>
 
 <h4>
-  <li> Learning and Creating , on a path to learn Web 3 and AI </li>
+  <li> Learning and Creating</li>
   <li> To be Updated </li>
 </h4>
 
