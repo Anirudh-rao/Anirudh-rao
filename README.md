@@ -3,8 +3,12 @@
 </div>
 
 <h4>
-  <li> Learning and Creating</li>
-  <li> To be Updated </li>
+  <li> Learning a lots of stuff</li>
+  <li> 1. Machine Learning and Deep learning </li>
+  <li> 2. Web3, Cryto and Crypto Trading</li>
+  <li> 3. Learning trading and building trading systems</li>
+
+
 </h4>
 
 
