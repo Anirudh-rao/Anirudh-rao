@@ -1,15 +1,7 @@
 <div align="center">
 <img width=100%  src="https://github.com/Anirudh-rao/Anirudh-rao/blob/main/header.png" alt="cover" />
 </div>
-
-<h4>
-  <li> Learning a lots of stuff</li>
-  <li> 1. Machine Learning and Deep learning </li>
-  <li> 2. Web3, Cryto and Crypto Trading</li>
-  <li> 3. Learning trading and building trading systems</li>
-
-
-</h4>
+<h2>Learning Something , Give a Follow </h2>
 
 
 <h2>Some Stats</h2>
