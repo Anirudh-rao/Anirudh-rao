@@ -1,7 +1,8 @@
 <div align="center">
 <img width=100%  src="https://github.com/Anirudh-rao/Anirudh-rao/blob/main/header.png" alt="cover" />
 </div>
-<h2>Wanna be Quant learning some math, some programming and some market related stuff </h2>
+<h5>Wanna be Quant </h5>
+<h5>Learning some math, some programming and some market related stuff </h5>
 
 
 <h4>Some Stats</h4>
