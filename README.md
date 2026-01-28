@@ -4,7 +4,7 @@
 <h2>Wanna be Quant learning some math, some programming and some market related stuff </h2>
 
 
-<h2>Some Stats</h2>
+<h4>Some Stats</h4>
 
 ![Langugaes](https://api.githubtrends.io/user/svg/Anirudh-rao/langs?time_range=one_month&include_private=True&compact=True&theme=synthwaves)</a> 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-rao&show_icons=true&theme=radical)</a>
